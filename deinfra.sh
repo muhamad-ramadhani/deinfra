@@ -31,4 +31,4 @@ echo -e "\e[1m\e[32m3. Run Docker... \e[0m" && sleep 1
 # Run Docker
 docker run -d -p 44000:44000 --name tpnode thepowerio/tpnode
 
-echo '=============== SETUP FINISH BANG EASY BANGET KAN ===================' && sleep 1
+echo '=============== SETUP FINISHED===================' && sleep 1
