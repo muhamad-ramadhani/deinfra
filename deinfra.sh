@@ -11,10 +11,12 @@ echo  "         |___/                            |___/  ";
 echo -e "\e[0m"
 echo "===================================================================" 
 
-echo -e '\e[36mGarapan :\e[39m' Deinfra Incentivized Testnet
-echo -e '\e[36mAuthor :\e[39m' Rama x PemulungAirdropID
-echo -e '\e[36mTelegram Group :\e[39m' @DiskusiPemulungAirdrop
-echo -e '\e[36mTelegram Channel :\e[39m' @PemulungAirdropID
+echo -e '\e[36mGarapan :\e[39m' Deinfra Testnet Incentivized
+echo -e '\e[36mAuthor :\e[39m' Bang Pateng
+echo -e '\e[36mTelegram Group :\e[39m' @bangpateng_group
+echo -e '\e[36mTelegram Channel :\e[39m' @bangpateng_airdrop
+echo -e '\e[36mYoutube :\e[39m' Bang Pateng
+echo -e '\e[36mWebsite :\e[39m' www.bangpatengnode.site
 echo "======================================="
 
 sleep 2
@@ -31,4 +33,4 @@ echo -e "\e[1m\e[32m3. Run Docker... \e[0m" && sleep 1
 # Run Docker
 docker run -d -p 44000:44000 --name tpnode thepowerio/tpnode
 
-echo '=============== SETUP FINISHED ===================' && sleep 1
+echo '=============== SETUP FINISH BANG EASY BANGET KAN ===================' && sleep 1
