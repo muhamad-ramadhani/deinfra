@@ -12,7 +12,7 @@ echo -e "\e[0m"
 echo "===================================================================" 
 
 echo -e '\e[36mGarapan :\e[39m' Deinfra Incentivized Testnet
-echo -e '\e[36mAuthor :\e[39m' Rama | PemulungAirdropID
+echo -e '\e[36mAuthor :\e[39m' Rama x PemulungAirdropID
 echo -e '\e[36mTelegram Group :\e[39m' @DiskusiPemulungAirdrop
 echo -e '\e[36mTelegram Channel :\e[39m' @PemulungAirdropID
 echo "======================================="
