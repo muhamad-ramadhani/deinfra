@@ -15,3 +15,4 @@
 | OS | Ubuntu 18.04 or higher |
 
 ## Phase 1
+https://github.com/muhamad-ramadhani/deinfra/blob/main/phase1.md
